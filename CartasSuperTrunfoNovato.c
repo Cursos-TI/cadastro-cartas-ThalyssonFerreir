@@ -146,5 +146,6 @@ int main() {
         printf("Pontos turísticos: %d\n", ponto1);
     }
 
+    
     return 0;
 }
