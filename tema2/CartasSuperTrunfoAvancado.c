@@ -227,7 +227,7 @@ int main() {
     };
 
     int poderOuVer;
-    printf("\nPerfeito, sua carta está criada, deseja apenas ver as suas cartas ou fazer a comparação de suas duas cartas para saber qual terá mais pontos");
+    printf("\nPerfeito, sua carta está criada, deseja apenas ver as suas cartas ou fazer a comparação de suas duas cartas para saber qual terá mais pontos\n");
 
     printf("\n1 - Ver apenas as duas cartas\n2 - ver as duas cartas e fazer suas comparações\n\n");
     printf("Digite: ");
